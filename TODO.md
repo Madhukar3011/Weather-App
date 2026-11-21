@@ -1,0 +1,3 @@
+- [x] Update Weather-App/src/InfoBox.jsx to show a city-specific image when a known city is searched.
+- [x] Keep existing weather-based fallback images for unknown cities.
+- [x] Smoke test by searching at least 2 known cities and 1 unknown city (Varanasi/Delhi/Mumbai are mapped).
